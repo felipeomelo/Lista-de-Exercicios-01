@@ -1,1 +1,1 @@
-Lista de Exercícios práticos de Variáveis - Back-end
+Lista de Exercícios práticos - Variáveis - Back-end
